@@ -15,8 +15,8 @@ Challenges we ran into while coming up and implementing this project :
 4. After this, coming up with a way of transferring and connecting a phone to the software
 
 # Technologies used
- TensorFlow 
- OpenCV
- PythonSpeech 
- ** RecognitionText-to-Speech **
- SSD
+ 1.TensorFlow 
+ 2.OpenCV
+ 3.PythonSpeech 
+ 4.RecognitionText-to-Speech
+ 5.SSD
