@@ -1,4 +1,4 @@
-# Tech-Eye
+# GuidEye
 A python software that can help blind people find things like laptops, phones, etc the same way a guide dog guides a blind person in finding his way.
 # The problem GuidEye solves
 Consider a scenario. A blind person is alone at home and needs something like he wants to find his movable chair but has forgotten where it was placed. Normally he would have to guess the direction and try by reaching out to the distances if there is no one to help. In this case he would have to waste a lot of energy and time and there is also a risk of them hurting or wounding themselves in the process. Our project solves this problem.
