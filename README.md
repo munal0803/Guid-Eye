@@ -11,11 +11,7 @@ Thus, this software acts like a guide dog helping out a blind person
 Challenges we ran into while coming up and implementing this project :
 1. We wanted to solve a problem for blind people but were confused how could we do it.
 2. After coming up with this idea voice recognition and speaker acted as a small problem but was resolved.
-3. Training a model for det
-
-https://user-images.githubusercontent.com/75110825/183237164-851921d2-1ae6-49e4-a974-82a9d2a98cd9.mp4
-
-ecting posed a problem.
+3. Training a model for detecting posed a problem.
 4. After this, coming up with a way of transferring and connecting a phone to the software
 
 # Technologies used
@@ -24,3 +20,6 @@ ecting posed a problem.
  3.PythonSpeech 
  4.RecognitionText-to-Speech
  5.SSD
+
+
+https://user-images.githubusercontent.com/75110825/183237164-851921d2-1ae6-49e4-a974-82a9d2a98cd9.mp4
